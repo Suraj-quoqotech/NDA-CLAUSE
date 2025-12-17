@@ -1,0 +1,9 @@
+spacy==3.8.11
+sentence-transformers
+torch
+pdfplumber
+pytesseract
+Pillow
+django
+djangorestframework
+django-cors-headers
